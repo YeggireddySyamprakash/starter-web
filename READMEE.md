@@ -17,4 +17,4 @@ This a simple web project, deployment can be on any web server or even local fil
 ##How To Contribute
 
 ###Copyright
-2023 git.learning
+2023 git.learning_2
