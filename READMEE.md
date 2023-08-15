@@ -1,6 +1,7 @@
 #Starter Web Project
 
-This a simple website project for showing how to use git and github together.
+This a simple website project for showing how to use git and github together. 
+Adding line for rebase.
 
 ##Introduction
 
