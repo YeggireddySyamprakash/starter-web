@@ -20,13 +20,5 @@ This a simple web project, deployment can be on any web server or even local fil
 please fork this repository and then issue pull requests for review.
 
 ###Copyright
-<<<<<<< HEAD
-<<<<<<< HEAD
-2023 git.learning_1
-=======
-2023 git.learning_2
->>>>>>> add-copyright
-=======
-2023 git.learning_2
-2023 git.learning_2
->>>>>>> add-copyright
+2023 git.learning_1. All rights reserved.
+
